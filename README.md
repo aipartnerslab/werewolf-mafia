@@ -1,1 +1,1 @@
-# werewolf-mafia
+# Werewolf-mafia
